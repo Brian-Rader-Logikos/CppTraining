@@ -6,3 +6,4 @@ This repo is all about learning C++. It is intended to contain or reference trai
 
 [Resources](resources/resources.md)  
 [Patterns](patterns/patterns.md)  
+[STM8 Nucleo-32](stm8_nucleo_32/stm8_nucleo_32.md)
